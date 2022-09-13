@@ -1,0 +1,7 @@
+C:\Users\cisco\source\repos\RandProg\RandProg\bin\Debug\RandProg.exe.config
+C:\Users\cisco\source\repos\RandProg\RandProg\bin\Debug\RandProg.exe
+C:\Users\cisco\source\repos\RandProg\RandProg\bin\Debug\RandProg.pdb
+C:\Users\cisco\source\repos\RandProg\RandProg\obj\Debug\RandProg.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\RandProg\RandProg\obj\Debug\RandProg.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\RandProg\RandProg\obj\Debug\RandProg.exe
+C:\Users\cisco\source\repos\RandProg\RandProg\obj\Debug\RandProg.pdb
